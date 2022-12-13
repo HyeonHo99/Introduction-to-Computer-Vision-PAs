@@ -9,11 +9,3 @@ Project Assignments: Implementation of OpenCV core functions (without using the 
  ```consle
   $ conda create --name cvision --file requirements.txt
  ```
-
-## PA1 
-
-## PA2
-
-## PA3
-
-## PA4
