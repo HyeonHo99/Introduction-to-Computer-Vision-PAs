@@ -20,7 +20,7 @@ Project Assignments: Implementation of OpenCV core functions (without using the 
 #### Corner Detection 
 <img src="https://user-images.githubusercontent.com/69974410/207232937-3bf18239-9389-4cc4-a3c4-472a303f68e9.png" width="700" height="400"></img>
 #### Corner Detection with Thresholding and NMS
-<img src="https://user-images.githubusercontent.com/69974410/207232964-a63605f9-edd0-4534-a9f6-7277e003b6fe.png" width="650" height="350"></img>
+<img src="https://user-images.githubusercontent.com/69974410/207232964-a63605f9-edd0-4534-a9f6-7277e003b6fe.png" width="650" height="300"></img>
 <img src="https://user-images.githubusercontent.com/69974410/207232993-f00947f3-e3db-4c18-ab38-4bcb7272b045.png" width="650" height="300"></img>
 
 
