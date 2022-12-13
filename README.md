@@ -29,10 +29,12 @@ Project Assignments: Implementation of OpenCV core functions (without using the 
 ![image](https://user-images.githubusercontent.com/69974410/207233646-1f84c4b0-530e-44da-947e-2e68835f783c.png)
 ![image](https://user-images.githubusercontent.com/69974410/207233667-0adce2ad-3ad5-41ee-a71f-682bc3b64f5e.png)
 #### Homography
-![image](https://user-images.githubusercontent.com/69974410/207233782-8aab2065-f526-420c-8657-ffab3b42f398.png)
-![image](https://user-images.githubusercontent.com/69974410/207233823-e83fc02b-55ad-4c9a-899f-26e2197ea1d9.png)
-![image](https://user-images.githubusercontent.com/69974410/207233873-af89d145-5873-4c70-9636-9a7c8f571d4e.png)
+<img src="https://user-images.githubusercontent.com/69974410/207233782-8aab2065-f526-420c-8657-ffab3b42f398.png" width="650" height="300"></img>
+<img src="https://user-images.githubusercontent.com/69974410/207233823-e83fc02b-55ad-4c9a-899f-26e2197ea1d9.png" width="650" height="500"></img>
+<img src="https://user-images.githubusercontent.com/69974410/207233873-af89d145-5873-4c70-9636-9a7c8f571d4e.png" width="650" height="300"></img>
+#### Image Stitching
 ![image](https://user-images.githubusercontent.com/69974410/207233903-b1b726ba-687b-47fd-b414-8e0b5542923d.png)
+#### Image Stitching with Gradation Blending
 ![image](https://user-images.githubusercontent.com/69974410/207233928-7620ffa0-6083-4e98-a022-c86d7018c7e4.png)
 
 ## PA3
