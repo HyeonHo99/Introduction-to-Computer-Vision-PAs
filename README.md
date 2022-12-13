@@ -5,7 +5,7 @@ Project Assignments: Implementation of OpenCV core functions (without using the 
 - OpenCV 3.4 or higher
 - Numpy, Math
 
-#### Direct Installation
+#### Direct venv Generation
  ```consle
   $ conda create --name cvision --file requirements.txt
  ```
