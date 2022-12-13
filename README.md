@@ -48,4 +48,4 @@ Project Assignments: Implementation of OpenCV core functions (without using the 
 - PA1: 100/100 (avg: 85)
 - PA2: 100/100 (avg: 67.4)
 - PA3: 100/100 (avg: 78.5)
-- PA4: 99/100 (avg: 59.8)
+- PA4: 94/100 (avg: 60.6)
