@@ -9,3 +9,9 @@ Project Assignments: Implementation of OpenCV core functions (without using the 
  ```consle
   $ conda create --name cvision --file requirements.txt
  ```
+
+#### Received Scores
+- PA1: 100/100 (avg: 85)
+- PA2: 100/100 (avg: 67.4)
+- PA3: 100/100 (avg: 78.5)
+- PA4: 
