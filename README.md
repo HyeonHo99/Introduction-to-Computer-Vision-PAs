@@ -38,14 +38,13 @@ Project Assignments: Implementation of OpenCV core functions (without using the 
 ![image](https://user-images.githubusercontent.com/69974410/207233928-7620ffa0-6083-4e98-a022-c86d7018c7e4.png)
 
 ## PA3
-
-
-## PA4
+#### Visualization of Epipolar Lines (computed by Fundamental Matrix)
+![image](https://user-images.githubusercontent.com/69974410/207236390-7129a36c-8e89-4593-aab6-df107e4a9b43.png)
 
 
 <hr>
 
-#### Received Scores
+### Received Scores
 - PA1: 100/100 (avg: 85)
 - PA2: 100/100 (avg: 67.4)
 - PA3: 100/100 (avg: 78.5)
